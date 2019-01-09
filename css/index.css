@@ -252,8 +252,8 @@ html,body{
 .page7>img:nth-of-type(6),
 .page8>img:nth-of-type(6),
 .page9>img:nth-of-type(6){
-    top: 1.1rem;
-    left: 1.6rem;
+    top: 1rem;
+    left: 1.7rem;
 }
 .page2 .text_chuancai,
 .page3 .text_huicai,
@@ -266,7 +266,8 @@ html,body{
     line-height: .25rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    /* font-family: cursive; */
+    font-family: cursive;
     position: absolute;
     top: 1.4rem;
     left: 0.35rem;
@@ -309,44 +310,50 @@ html,body{
 }
 
 /* page 2 */
-.page2 .daibiaozuo_chuancai>img:nth-of-type(1){
-    width: 0.8rem;
-    top: 2.5rem;
+
+.page2 .daibiaozuo_chuancai>p:nth-of-type(1){
+    top: 2rem;
     right: .7rem;
+    font-size: .18rem;
+    font-weight: 550;
+    font-family: cursive;
+}
+
+.page2 .daibiaozuo_chuancai>img:nth-of-type(1){
+    width: 1rem;
+    height: 0.7rem;
+    top: 2.2rem;
+    right: .5rem;
+}
+.page2 .daibiaozuo_chuancai>p:nth-of-type(2){
+    top: 3.1rem;
+    right: .7rem;
+    font-size: .18rem;
+    font-weight: 550;
+    font-family: cursive;
 }
 .page2 .daibiaozuo_chuancai>img:nth-of-type(2){
     width: 1.0rem;
-    margin-right: -0.1rem;
-    top: 3.8rem;
+    height: .7rem;
+    top: 3.3rem;
+    right: .5rem;
+}
+.page2 .daibiaozuo_chuancai>p:nth-of-type(3){
+    top: 4.2rem;
     right: .7rem;
+    font-size: .18rem;
+    font-weight: 550;
+    font-family: cursive;
 }
 .page2 .daibiaozuo_chuancai>img:nth-of-type(3){
     width: 1.0rem;
-    margin-right: -0.1rem;
-    top: 5rem;
-    right: .7rem;
+    height: .7rem;
+    top: 4.4rem;
+    right: .5rem;
 }
-.page2 .daibiaozuo_chuancai>p:nth-of-type(1){
-    top: 2.2rem;
-    right: .9rem;
-    font-size: .18rem;
-    font-weight: 550;
-    font-family: 楷体;
-}
-.page2 .daibiaozuo_chuancai>p:nth-of-type(2){
-    top: 3.5rem;
-    right: .9rem;
-    font-size: .18rem;
-    font-weight: 550;
-    font-family: 楷体;
-}
-.page2 .daibiaozuo_chuancai>p:nth-of-type(3){
-    top: 4.7rem;
-    right: .8rem;
-    font-size: .18rem;
-    font-weight: 550;
-    font-family: 楷体;
-}
+
+
+
 
 /* page 3 */
 .page3 .daibiaozuo_huicai>img:nth-of-type(1){
@@ -372,21 +379,21 @@ html,body{
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page3 .daibiaozuo_huicai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page3 .daibiaozuo_huicai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 
 /* page 4 */
@@ -413,21 +420,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page4 .daibiaozuo_xiangcai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page4 .daibiaozuo_xiangcai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 /* page 5 */
 .page5 .daibiaozuo_lucai>img:nth-of-type(1){
@@ -454,21 +461,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page5 .daibiaozuo_lucai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page5 .daibiaozuo_lucai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 /* page 6 */
 .page6 .daibiaozuo_zhecai>img:nth-of-type(1){
@@ -495,21 +502,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page6 .daibiaozuo_zhecai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page6 .daibiaozuo_zhecai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 /* page 7 */
 .page7 .daibiaozuo_sucai>img:nth-of-type(1){
@@ -538,21 +545,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page7 .daibiaozuo_sucai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page7 .daibiaozuo_sucai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 
 
@@ -583,21 +590,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page8 .daibiaozuo_mincai>p:nth-of-type(2){
     top: 3.6rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page8 .daibiaozuo_mincai>p:nth-of-type(3){
     top: 5.0rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 /* page 9 */
 .page9 .daibiaozuo_yuecai>img:nth-of-type(1){
@@ -626,21 +633,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page9 .daibiaozuo_yuecai>p:nth-of-type(2){
     top: 3.6rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page9 .daibiaozuo_yuecai>p:nth-of-type(3){
     top: 5.0rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 /* page 10 */
 .page10{
@@ -658,7 +665,7 @@ html,body{
     line-height: .28rem;
     font-size: .19rem;
     font-weight: 550;
-    font-family: 楷体;
+    font-family: cursive;
 }
 .page10 img:nth-of-type(3){
     width: .8rem;
