@@ -266,8 +266,8 @@ html,body{
     line-height: .25rem;
     font-size: .18rem;
     font-weight: 550;
-    /* font-family: cursive; */
-    font-family: cursive;
+    /*  */
+    
     position: absolute;
     top: 1.4rem;
     left: 0.35rem;
@@ -316,7 +316,7 @@ html,body{
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 
 .page2 .daibiaozuo_chuancai>img:nth-of-type(1){
@@ -330,7 +330,7 @@ html,body{
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page2 .daibiaozuo_chuancai>img:nth-of-type(2){
     width: 1.0rem;
@@ -343,7 +343,7 @@ html,body{
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page2 .daibiaozuo_chuancai>img:nth-of-type(3){
     width: 1.0rem;
@@ -379,21 +379,21 @@ html,body{
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page3 .daibiaozuo_huicai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page3 .daibiaozuo_huicai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 
 /* page 4 */
@@ -420,21 +420,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page4 .daibiaozuo_xiangcai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page4 .daibiaozuo_xiangcai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 /* page 5 */
 .page5 .daibiaozuo_lucai>img:nth-of-type(1){
@@ -461,21 +461,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page5 .daibiaozuo_lucai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page5 .daibiaozuo_lucai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 /* page 6 */
 .page6 .daibiaozuo_zhecai>img:nth-of-type(1){
@@ -502,21 +502,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page6 .daibiaozuo_zhecai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page6 .daibiaozuo_zhecai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 /* page 7 */
 .page7 .daibiaozuo_sucai>img:nth-of-type(1){
@@ -545,21 +545,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page7 .daibiaozuo_sucai>p:nth-of-type(2){
     top: 3.5rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page7 .daibiaozuo_sucai>p:nth-of-type(3){
     top: 4.9rem;
     right: .7rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 
 
@@ -590,21 +590,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page8 .daibiaozuo_mincai>p:nth-of-type(2){
     top: 3.6rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page8 .daibiaozuo_mincai>p:nth-of-type(3){
     top: 5.0rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 /* page 9 */
 .page9 .daibiaozuo_yuecai>img:nth-of-type(1){
@@ -633,21 +633,21 @@ html,body{
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page9 .daibiaozuo_yuecai>p:nth-of-type(2){
     top: 3.6rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page9 .daibiaozuo_yuecai>p:nth-of-type(3){
     top: 5.0rem;
     right: .8rem;
     font-size: .18rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 /* page 10 */
 .page10{
@@ -665,7 +665,7 @@ html,body{
     line-height: .28rem;
     font-size: .19rem;
     font-weight: 550;
-    font-family: cursive;
+    
 }
 .page10 img:nth-of-type(3){
     width: .8rem;
