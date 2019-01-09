@@ -167,8 +167,8 @@ html,body{
     height: 0.35rem;
 }
 .page1>img:nth-of-type(14){
-    left: .05rem;
-    top: 2.1rem;
+    left: .1rem;
+    top: 1.8rem;
     width: 2rem;
     height: 3rem;
 }
@@ -273,6 +273,7 @@ html,body{
     width: 40%;
 }
 
+
 .page2 .daibiaozuo_chuancai,
 .page3 .daibiaozuo_huicai,
 .page4 .daibiaozuo_xiangcai,
@@ -285,6 +286,7 @@ html,body{
     position: absolute;
     right: 0;
 }
+
 .page2 .daibiaozuo_chuancai>p,
 .page3 .daibiaozuo_huicai>p,
 .page4 .daibiaozuo_xiangcai>p,
